@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background: paleturquoise;
+}
+h1 {
+    text-shadow: 1px 1px 3px gray;
+    color: teal;
+}
+table {
+    margin: auto;
+    background: rgb(140, 147, 146);
+    border-spacing: 10px;
+    box-shadow: 1px 1px 4px inset black;
+}
+td {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 6px;
+    background: khaki;
+    cursor: pointer;
+}
+input {
+    border-radius: 6px;
+    border: none;
+    padding: 7px;
+    margin: 0px;
+    padding-right: 13px;
+    box-shadow: 1px 1px 3px inset black;
+    text-align: right;
+    font-size: 16px;
+}
